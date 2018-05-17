@@ -1,0 +1,16 @@
+PODS:
+  - runtimeDemo (1.0.0)
+
+DEPENDENCIES:
+  - runtimeDemo (from `../`)
+
+EXTERNAL SOURCES:
+  runtimeDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  runtimeDemo: 23acdd5e73941d43989fe8c20b00720e50af78a0
+
+PODFILE CHECKSUM: a2df6d0f52e8d4eb9cb961360ed59432d8eb106f
+
+COCOAPODS: 1.2.1
